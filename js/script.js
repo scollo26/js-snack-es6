@@ -8,7 +8,16 @@
 let array = [1,2,7,10,33,67,89];
 
 
+// funzione con filter
 
+// function maxminArray(array, a, b){
+//     let newArray = array.filter((element) =>{
+//         return element > a && element < b;
+//     });
+//     return newArray;
+// }
+// let arrayDue = maxminArray(array,4,55);
+// console.log(arrayDue);
 
 
 
