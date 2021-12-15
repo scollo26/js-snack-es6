@@ -5,7 +5,11 @@
 
 
 
-let array = [1,2,7,10,33,67,89];
+// let array = [1,2,7,10,33,67,89];
+
+
+
+let array =['a', 'b','c','d','e'] 
 
 
 // funzione con filter
@@ -34,9 +38,11 @@ function maxminArray(array, a, b){
 
     return newArray;
 }
-let arrayDue = maxminArray(array,32,90);
+let arrayDue = maxminArray(array,'a','d');
 console.log(arrayDue);
     
+
+
 
 
 
